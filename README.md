@@ -25,6 +25,16 @@ Look at the columns present in your dataset in your datasets.
 ![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Heatmap.JPG)<br />
 We can see the car has highest correlation with kms driven kms, Pesent price. Also later during data cleaning and data processing  no. of years, transmission type and fuel type is also highly correlated.
 
-###Data preparation
+### Data preparation
 Categorical have been encoded before training the model.
 ![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Encode.JPG)
+
+###  Model building and evaluation
+#### Hyper Parameter-Tuning
+![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Best%20Score.JPG)
+
+#### Which fearures are important for the prectiion?
+![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Model%20importance.JPG)
+
+#### Model Evaluation
+![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/metrics.JPG)
