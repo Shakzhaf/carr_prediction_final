@@ -20,3 +20,6 @@ Look at the columns present in your dataset in your datasets.
 
 #### Data Describe
 ![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Desvribe%20the%20data.JPG)
+
+#### Let us visualize the correlation with the help of a heatmap
+![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Heatmap.JPG)
