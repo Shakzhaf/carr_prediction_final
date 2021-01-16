@@ -14,3 +14,9 @@ You as a Data scientist are required to apply some data science techniques for t
 ### Data understanding and exploration
 Look at the columns present in your dataset in your datasets. 
 ![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/head.JPG)
+
+#### Try to visualize data withe the help of the seaborn library.
+![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Visualize.JPG)
+
+#### Data Describe
+![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Desvribe%20the%20data.JPG)
