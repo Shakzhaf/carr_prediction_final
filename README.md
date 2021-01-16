@@ -23,3 +23,4 @@ Look at the columns present in your dataset in your datasets.
 
 #### Let us visualize the correlation with the help of a heatmap
 ![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/Heatmap.JPG)
+We can see the car has highest correlation with kms driven kms, Pesent price. Also later during data cleaning and data processing  no. of years, transmission type and fuel type is also highly correlated.
