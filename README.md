@@ -5,3 +5,8 @@ There an Automobile dealor which aspires which aspires to the enter the Indian M
 - How well those variables describe the price of a car?
 ## Business Objectives:
 You as a Data scientist are required to apply some data science techniques for the price of cars with the available independent variables. That should help the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
+## The solution is divided into the following sections:
+- Data understanding and exploration
+- Data cleaning
+- Data preparation
+- Model building and evaluation
