@@ -13,4 +13,4 @@ You as a Data scientist are required to apply some data science techniques for t
 
 ### Data understanding and exploration
 Look at the columns present in your dataset in your datasets. 
-https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/head.JPG
+![](https://github.com/Shakzhaf/carr_prediction_final/blob/main/Content/head.JPG)
